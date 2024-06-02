@@ -1,1 +1,1 @@
-Documentation of all HTML files.
+Documentation of HTML tags.
