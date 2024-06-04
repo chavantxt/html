@@ -19,6 +19,7 @@
 .item-1{
     background-color:aquamarine;
     padding-bottom: 3rem;
+    flex-basis: 200px;
 }
 .item-2{
     background-color: burlywood;
