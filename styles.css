@@ -12,6 +12,7 @@
 
 .flex-item{
     text-align: center;
+    flex-grow:1;
 }
 
 .item-1{
