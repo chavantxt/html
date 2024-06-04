@@ -64,4 +64,4 @@ item shril to fit into small container.
 flex-grow + flex-shrink + flex-basis ( default : none | intial | auto )
 
 ## align-self
-felx-start | flex-end | center
+felx-start | flex-end | center | stretch | auto -- inherit align-item value
