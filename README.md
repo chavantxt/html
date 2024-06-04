@@ -55,4 +55,7 @@ justify-content: flex-end | center | space-between | space-around | space-evenly
 shift element to the end - Disen't make any sense for me.
 
 ## flex-grow
+cover all empty spaces.
 
+## flex-shrik 
+item shril to fit into small container. 
