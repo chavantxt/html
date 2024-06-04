@@ -59,3 +59,6 @@ cover all empty spaces.
 
 ## flex-shrik 
 item shril to fit into small container. 
+
+## flex
+flex-grow + flex-shrink + flex-basis
