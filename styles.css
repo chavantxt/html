@@ -1,4 +1,9 @@
 
+.container{
+    border: 5px solid black;
+    display: inline-flex;
+}
+
 .flex-item{
     text-align: center;
 }

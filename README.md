@@ -24,3 +24,8 @@ flex-flow
 justify-content
 align-item
 align-content
+
+## display 
+flex  - display contaoner element horizontally 
+inline-flex - accomodate whole border with item since container takes 100 width all changes 
+direction - row,
