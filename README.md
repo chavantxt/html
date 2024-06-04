@@ -14,3 +14,13 @@ Documentation of HTML tags.
 
 Main Axis - Main start, size, end - bottom
 Cross Axis - Cross start, size, end - right 
+
+## Flex Container Properties
+
+display
+flex-direction
+flex-wrap
+flex-flow
+justify-content
+align-item
+align-content
