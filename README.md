@@ -34,3 +34,6 @@ direction - row (default), row-reverse (Right - left), column, column-reverse (b
 wrap - if items are no longer in view then those element will wrap in container 
 wrap-reverse - wrap last item
 nowrap - it won't wrap
+
+## flew-flow
+flex-direction + flex-wrap
