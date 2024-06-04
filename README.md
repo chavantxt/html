@@ -61,4 +61,5 @@ cover all empty spaces.
 item shril to fit into small container. 
 
 ## flex
-flex-grow + flex-shrink + flex-basis
+flex-grow + flex-shrink + flex-basis ( default : none | intial | auto )
+
