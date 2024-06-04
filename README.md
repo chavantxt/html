@@ -40,3 +40,6 @@ flex-direction + flex-wrap
 
 ## justify-content
 justify-content: flex-end | center | space-between | space-around | space-evenly
+
+## align-item 
+justify-content : on cross axis stretch | flex-start

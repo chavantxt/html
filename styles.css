@@ -5,7 +5,9 @@
  /*   flex-direction: column;*/
     /*flex-wrap: wrap;*/
     flex-flow: row wrap;
-    justify-content: space-evenly;
+  /*  justify-content: space-evenly;*/
+    height: 800px ;
+    align-items: flex-end;
 }
 
 .flex-item{
