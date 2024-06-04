@@ -26,6 +26,7 @@
     background-color: cornflowerblue;
     padding-bottom: 5rem;
     font-size: 3rem;
+    order:2;
 }
 .item-4{background-color: darkolivegreen;}
 .item-5{background-color: floralwhite;}

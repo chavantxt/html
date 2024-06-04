@@ -52,3 +52,7 @@ justify-content: flex-end | center | space-between | space-around | space-evenly
 5.flex
 
 ## Order
+shift element to the end - Disen't make any sense for me.
+
+## flex-grow
+
