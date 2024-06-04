@@ -1,0 +1,55 @@
+
+.container{
+    border: 5px solid #000000;
+    display: flex;
+ /*   flex-direction: column;*/
+    /*flex-wrap: wrap;*/
+    flex-flow: row wrap;
+  /*  justify-content: space-evenly;*/
+    height: 400px ;
+    align-items: baseline;
+}
+
+.flex-item{
+    text-align: center;
+    /*flex-grow:1;*/
+    /*flex-shrink:1;*/
+}
+
+.item-1{
+    background-color:aquamarine;
+    padding-bottom: 3rem;
+    flex-basis: 200px;
+}
+.item-2{
+    background-color: burlywood;
+    padding-bottom: 3rem;
+    align-self: flex-start;
+}
+.item-3{
+    background-color: cornflowerblue;
+    padding-bottom: 5rem;
+    font-size: 3rem;
+    order:2;
+    flex-shrink:4;
+}
+.item-4{background-color: darkolivegreen;
+align-self: center;}
+.item-5{background-color: floralwhite;
+align-self: end;}
+.item-6{background-color: greenyellow;
+align-self: stretch;}
+.item-7{background-color: hotpink;}
+.item-8{background-color: indianred;}
+.item-9{background-color: khaki;}
+.item-10{background-color: lightcoral;}
+.item-11{background-color: mediumturquoise;}
+.item-12{background-color: navajowhite;}
+.item-13{background-color: orchid;}
+.item-14{background-color: plum;}
+.item-15{background-color: royalblue;}
+.item-16{background-color: salmon;}
+.item-17{background-color: tomato;}
+.item-18{background-color: violet;}
+.item-19{background-color: wheat;}
+.item-20{background-color: yellowgreen;}
