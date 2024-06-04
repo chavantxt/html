@@ -28,4 +28,4 @@ align-content
 ## display 
 flex  - display contaoner element horizontally 
 inline-flex - accomodate whole border with item since container takes 100 width all changes 
-direction - row,
+direction - row (default), row-reverse (Right - left), column, column-reverse (bottom - top)
