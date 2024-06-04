@@ -6,7 +6,7 @@
     /*flex-wrap: wrap;*/
     flex-flow: row wrap;
   /*  justify-content: space-evenly;*/
-    height: 800px ;
+    height: 400px ;
     align-items: baseline;
 }
 
@@ -24,6 +24,7 @@
 .item-2{
     background-color: burlywood;
     padding-bottom: 3rem;
+    align-self: flex-start;
 }
 .item-3{
     background-color: cornflowerblue;
@@ -32,9 +33,12 @@
     order:2;
     flex-shrink:4;
 }
-.item-4{background-color: darkolivegreen;}
-.item-5{background-color: floralwhite;}
-.item-6{background-color: greenyellow;}
+.item-4{background-color: darkolivegreen;
+align-self: center;}
+.item-5{background-color: floralwhite;
+align-self: end;}
+.item-6{background-color: greenyellow;
+align-self: stretch;}
 .item-7{background-color: hotpink;}
 .item-8{background-color: indianred;}
 .item-9{background-color: khaki;}
