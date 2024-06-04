@@ -43,3 +43,12 @@ justify-content: flex-end | center | space-between | space-around | space-evenly
 
 ## align-item 
 (justify-content ) On cross axis stretch | flex-start | baseline
+
+## Flex item property
+1.order
+2.flex-grow
+3.flex-shrink
+4.flex-basis
+5.flex
+
+## Order
