@@ -37,3 +37,6 @@ nowrap - it won't wrap
 
 ## flew-flow
 flex-direction + flex-wrap
+
+## justify-content
+justify-content: flex-end | center | space-between | space-around | space-evenly
