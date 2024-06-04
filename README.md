@@ -42,4 +42,4 @@ flex-direction + flex-wrap
 justify-content: flex-end | center | space-between | space-around | space-evenly
 
 ## align-item 
-justify-content : on cross axis stretch | flex-start
+(justify-content ) On cross axis stretch | flex-start | baseline

@@ -7,7 +7,7 @@
     flex-flow: row wrap;
   /*  justify-content: space-evenly;*/
     height: 800px ;
-    align-items: flex-end;
+    align-items: baseline;
 }
 
 .flex-item{
@@ -16,9 +16,17 @@
 
 .item-1{
     background-color:aquamarine;
+    padding-bottom: 3rem;
 }
-.item-2{background-color: burlywood;}
-.item-3{background-color: cornflowerblue;}
+.item-2{
+    background-color: burlywood;
+    padding-bottom: 3rem;
+}
+.item-3{
+    background-color: cornflowerblue;
+    padding-bottom: 5rem;
+    font-size: 3rem;
+}
 .item-4{background-color: darkolivegreen;}
 .item-5{background-color: floralwhite;}
 .item-6{background-color: greenyellow;}
