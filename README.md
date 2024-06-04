@@ -29,3 +29,8 @@ align-content
 flex  - display contaoner element horizontally 
 inline-flex - accomodate whole border with item since container takes 100 width all changes 
 direction - row (default), row-reverse (Right - left), column, column-reverse (bottom - top)
+
+## flex-wrap
+wrap - if items are no longer in view then those element will wrap in container 
+wrap-reverse - wrap last item
+nowrap - it won't wrap
